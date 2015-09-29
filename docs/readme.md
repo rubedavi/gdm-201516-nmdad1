@@ -1,8 +1,8 @@
 
 *Biografie  
--- Ruben David
--- 23 Jaar
--- Gent
+-- Ruben David --  
+-- 23 Jaar --  
+-- Gent --  
 
 *Portfolio  
 *Werkervaring  
